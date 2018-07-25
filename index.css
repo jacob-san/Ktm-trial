@@ -1,0 +1,18 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+.teaser-video {
+    height: 100vh;
+}
+.nav-wrapper {
+    display: flex;
+    width: 100%;
+}
+.nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-list li {
+    /* margin-left: 15px; */
+}
